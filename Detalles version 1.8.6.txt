@@ -1,0 +1,4 @@
+Version aparatentemente sin errores. 
+Se agrego la funcion de permanecer en el modo oscuro
+Se agrego el boton de menu de zonas
+Los asientos ahora son circulos
